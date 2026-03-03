@@ -1,4 +1,3 @@
-```markdown
 🌎 *Leia em [Português](README.md)*
 
 # ✈️ Toronto Airspace Control Tower - Real-Time Data Pipeline
@@ -26,14 +25,9 @@ Data processing was structured using the Medallion Architecture within the **Dat
 The user interface was developed in **Streamlit**, connecting directly to the Databricks SQL Warehouse. Features include:
 * **Geospatial Map:** Real-time plotting of aircraft latitude and longitude.
 * **Dynamic Filters:** Ability to segment flights by Country of Origin and Minimum Velocity (Pandas).
-* **Live Mode:** Implementation of an update loop (`time.sleep` + `st.rerun()`) to automatically refresh aircraft positions on the radar.
+* **Live Mode:** Implementation of an update loop to automatically refresh aircraft positions on the radar.
 
 ## 📂 Repository Structure
 * `radar.py`: Main Streamlit dashboard script and connection logic via `databricks-sql-connector`.
 * `notebook_databricks.py`: PySpark data extraction and processing pipeline (Bronze/Silver/Gold Layers).
-* `requirements.txt`: List of required Python dependencies and libraries.
-
-## 🚀 How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/toronto-airspace-monitoring.git](https://github.com/YOUR_USERNAME/toronto-airspace-monitoring.git)
+```
