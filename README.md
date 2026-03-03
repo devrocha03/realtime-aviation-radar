@@ -5,6 +5,10 @@
 ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+<div align="center">
+  <img src="dashboard.png" alt="Demonstração do Dashboard da Torre de Controle" width="100%">
+</div>
+
 ## 📌 Visão Geral do Projeto
 Este projeto simula uma Torre de Controle de tráfego aéreo, realizando o monitoramento contínuo de voos comerciais e privados na região de Toronto, Canadá. O objetivo principal foi construir uma pipeline de Engenharia de Dados de ponta a ponta, desde a ingestão de dados em tempo real de uma API externa até a visualização interativa em um dashboard analítico.
 
