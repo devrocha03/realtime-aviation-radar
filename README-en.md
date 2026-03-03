@@ -8,7 +8,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <div align="center">
-  <img src="dashboard.jpg" alt="Control Tower Dashboard Demonstration" width="100%">
+  <img src="dashboard.png" alt="Control Tower Dashboard Demonstration" width="100%">
 </div>
 
 ## 📌 Project Overview
