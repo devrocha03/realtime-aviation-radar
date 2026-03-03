@@ -28,9 +28,3 @@ A interface de usuário foi desenvolvida em **Streamlit**, conectando-se diretam
 ## 📂 Estrutura do Repositório
 * `radar.py`: Script principal do dashboard em Streamlit e lógica de conexão via `databricks-sql-connector`.
 * `notebook_databricks.py`: Pipeline de extração e tratamento de dados em PySpark (Camadas Bronze/Silver/Gold).
-* `requirements.txt`: Lista de dependências e bibliotecas Python necessárias.
-
-## 🚀 Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/devrocha03/toronto-airspace-monitoring.git](https://github.com/devrocha03/toronto-airspace-monitoring.git)
