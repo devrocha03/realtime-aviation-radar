@@ -29,4 +29,4 @@ A interface de usuário foi desenvolvida em **Streamlit**, conectando-se diretam
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/toronto-airspace-monitoring.git](https://github.com/SEU_USUARIO/toronto-airspace-monitoring.git)
+   git clone [https://github.com/devrocha03/toronto-airspace-monitoring.git](https://github.com/devrocha03/toronto-airspace-monitoring.git)
